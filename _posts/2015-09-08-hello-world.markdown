@@ -1,8 +1,23 @@
 ---
-published: true
-title: Hello world
+published: false
+title: Comparing cloud storage services
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/malthejorgensen/malthejorgensen.github.io](http://github.com/malthejorgensen/malthejorgensen.github.io). Be nice. Give credit. Share, don't steal :)
+Having had trouble with both Dropbox and my external NTFS-formatted drive, I figured it was time for something new. Before switching to Copy, I would like to back up my stuff somewhere where I'm 99% my stuff won't suddenly go missing because of a bad sync. And so that I a "reference dataset" to check if anything has gone missing.
 
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+Since my external drive and it's unfortunate NTFS-formatting is also out of the question, the answer became cloud storage services. 
+
+Contenders (from [alternativeto.net]) are:
+
+- Amazon S3
+- Google Cloud Storage
+- Microsoft Azure Storage
+
+
+
+
+
+
+
+
+[alternativeto.net]: http://alternativeto.net/software/amazon-simple-storage-service-amazon-s3-/
