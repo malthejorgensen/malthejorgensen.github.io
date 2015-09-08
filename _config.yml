@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://malthejorgensen.github.io
+title: http://blagblogblag.com/
+tagline: A small island in the vast internet ocean
+description: My awesome new site
+paginate: 5
